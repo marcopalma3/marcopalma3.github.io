@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroimaging | Marco Palma</title>
+    <link>marcopalma3.github.io/tags/neuroimaging/</link>
+      <atom:link href="marcopalma3.github.io/tags/neuroimaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neuroimaging</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>marcopalma3.github.io/img/boards.jpg</url>
+      <title>Neuroimaging</title>
+      <link>marcopalma3.github.io/tags/neuroimaging/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying uncertainty in brain-predicted age using scalar-on-image quantile regression</title>
+      <link>marcopalma3.github.io/publication/brain-age/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>marcopalma3.github.io/publication/brain-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IM-AGE</title>
+      <link>marcopalma3.github.io/project/im-age/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>marcopalma3.github.io/project/im-age/</guid>
+      <description>&lt;p&gt;Tensor-based morphometry (TBM) is an imaging technique that aims at showing
+local differences in brain volume with respect to a common template.
+TBM images are smooth but they exhibit (especially in diseased group)
+higher values in some brain regions called lateral ventricles. The study of TBM images might inform about ageing effects and neurodegenerative diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
