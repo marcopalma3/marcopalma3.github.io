@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Marco Palma</title>
+    <link>marcopalma3.github.io/categories/</link>
+      <atom:link href="marcopalma3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>marcopalma3.github.io/img/boards.jpg</url>
+      <title>Categories</title>
+      <link>marcopalma3.github.io/categories/</link>
+    </image>
+    
+    <item>
+      <title>R</title>
+      <link>marcopalma3.github.io/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>marcopalma3.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
