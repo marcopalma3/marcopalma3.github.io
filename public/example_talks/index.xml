@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Marco Palma</title>
+    <link>/example_talks/</link>
+      <atom:link href="/example_talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 12 Feb 2019 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Talks</title>
+      <link>/example_talks/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Brain Age from Structural Imaging using Scalar-on-Function Quantile Regression</title>
+      <link>/example_talks/sofqr/</link>
+      <pubDate>Tue, 12 Feb 2019 13:30:00 +0000</pubDate>
+      <guid>/example_talks/sofqr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
