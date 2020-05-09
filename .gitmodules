@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/marcopalma3/marcopalma3.github.io.git
-	branch = master
