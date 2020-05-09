@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italian | Marco Palma</title>
+    <link>/tags/italian/</link>
+      <atom:link href="/tags/italian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Italian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Sat, 25 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Italian</title>
+      <link>/tags/italian/</link>
+    </image>
+    
+    <item>
+      <title>Vortit Italice</title>
+      <link>/project/vortit-italice/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/project/vortit-italice/</guid>
+      <description>&lt;p&gt;We aim at studying the phenomenon of linguistic interference within written translations from Latin to Italian produced by Italian high-school students. We combine linguistic and statistical approaches in order to define the characteristics of &amp;ldquo;translationese&amp;rdquo; in the specific setting of didactic of ancient languages and we provide indications for the development of a pilot study (research in Italian).&lt;/p&gt;
+&lt;p&gt;Il presente studio si prefissa di seguire il virtuoso esempio di analisi interdisciplinari sull’interferenza linguistica nel contesto della traduzione e di applicare simili ragionamenti e metodologie al contesto della produzione scritta degli studenti e delle studentesse di scuola superiore quando traducono dal latino all&amp;rsquo;italiano. L&amp;rsquo;approccio prevede gli apporti combinati di linguistica e statistica, nello sforzo di creare un&amp;rsquo;analisi delle caratteristiche dell&amp;rsquo;italiano della traduzione (o &amp;ldquo;traduttese&amp;rdquo;) in uno specifico contesto, da porre alla base di ricerche future.&lt;/p&gt;
+&lt;p&gt;Progetto ideato e sviluppato in collaborazione con Laura Bigoni.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

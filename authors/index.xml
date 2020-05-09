@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Marco Palma</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a 3rd year PhD student in Statistics under the supervision of &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/brettschneider&#34;&gt;Dr Julia Brettschneider&lt;/a&gt; (Warwick), &lt;a href=&#34;https://www.bdi.ox.ac.uk/Team/t-e-nichols&#34;&gt;Prof Thomas Nichols&lt;/a&gt; (Oxford Big Data Institute) and &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tavakoli/&#34;&gt;Dr Shahin Tavakoli&lt;/a&gt; (Warwick). I am part of a joint CDT program between the University of Oxford and the University of Warwick called OxWaSP.&lt;/p&gt;
+&lt;p&gt;I am interested in the development of statistical methods for the analysis of neuroimaging data. The analysis of brain scans represents nowadays a challenge for statisticians due to the inherent high dimensionality and the internal spatial structure. From a theoretical point of view, I am currently modelling these aspects using functional data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alzheimer&#39;s Disease Neuroimaging Initiative</title>
+      <link>/authors/alzheimers-disease-neuroimaging-initiative/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alzheimers-disease-neuroimaging-initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Brettschneider</title>
+      <link>/authors/julia-brettschneider/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/julia-brettschneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shahin Tavakoli</title>
+      <link>/authors/shahin-tavakoli/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/shahin-tavakoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas E. Nichols</title>
+      <link>/authors/thomas-e.-nichols/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-e.-nichols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alessandro Vatri</title>
+      <link>/authors/alessandro-vatri/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alessandro-vatri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barbara McGillivray</title>
+      <link>/authors/barbara-mcgillivray/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/barbara-mcgillivray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Hengchen</title>
+      <link>/authors/simon-hengchen/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-hengchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viivi Lähteenoja</title>
+      <link>/authors/viivi-lahteenoja/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/viivi-lahteenoja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Q. Smith</title>
+      <link>/authors/jim-q.-smith/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jim-q.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valerio Perrone</title>
+      <link>/authors/valerio-perrone/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/valerio-perrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Gori</title>
+      <link>/authors/alberto-gori/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/alberto-gori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alessio Vasarri</title>
+      <link>/authors/alessio-vasarri/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/alessio-vasarri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boaz Gedaliahu Samolsky Dekel</title>
+      <link>/authors/boaz-gedaliahu-samolsky-dekel/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/boaz-gedaliahu-samolsky-dekel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Cristina Sorella</title>
+      <link>/authors/maria-cristina-sorella/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-cristina-sorella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rita Maria Melotti</title>
+      <link>/authors/rita-maria-melotti/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/rita-maria-melotti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

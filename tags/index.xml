@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Marco Palma</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Brain age</title>
+      <link>/tags/brain-age/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/brain-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional data analysis</title>
+      <link>/tags/functional-data-analysis/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional quantile regression</title>
+      <link>/tags/functional-quantile-regression/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-quantile-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging</title>
+      <link>/tags/neuroimaging/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor-based morphometry</title>
+      <link>/tags/tensor-based-morphometry/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/tensor-based-morphometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient Greek</title>
+      <link>/tags/ancient-greek/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/ancient-greek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian model</title>
+      <link>/tags/bayesian-model/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/bayesian-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GASC</title>
+      <link>/tags/gasc/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/gasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistics</title>
+      <link>/tags/linguistics/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/tags/other/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>/tags/italian/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin</title>
+      <link>/tags/latin/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translationese</title>
+      <link>/tags/translationese/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/translationese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
