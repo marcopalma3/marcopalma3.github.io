@@ -5,12 +5,20 @@
     <link>/tags/ancient-greek/</link>
       <atom:link href="/tags/ancient-greek/index.xml" rel="self" type="application/rss+xml" />
     <description>Ancient Greek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Ancient Greek</title>
       <link>/tags/ancient-greek/</link>
     </image>
+    
+    <item>
+      <title>Lexical semantic change for Ancient Greek and Latin</title>
+      <link>/publication/semantic-change-chapter/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/semantic-change-chapter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic Change</title>
