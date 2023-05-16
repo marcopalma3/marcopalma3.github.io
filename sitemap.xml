@@ -1,324 +1,226 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/tags/biostatistics/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/cardiovascular-diseases/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/cystic-fibrosis/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/joint-modelling/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/longitudinal-data/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/melsm/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/wive/</loc>
-    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication_types/3/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/angela-m-wood/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/david-taylor-robinson/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cf_wiv/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/graciela-muniz-terrera/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jessica-k-barrett/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rhonda-szczesniak/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ruth-h-keogh/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/siobhan-b-carr/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/within-individual-variability/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/6/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/alessandro-vatri/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ancient-greek/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/barbara-mcgillivray/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jim-q-smith/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/semantic-change-chapter/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/linguistics/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/simon-hengchen/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/valerio-perrone/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/1/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/laura-bigoni/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/translationese/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/vortit-it/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/alzheimers-disease-neuroimaging-initiative/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/brain-age/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/functional-data-analysis/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/functional-quantile-regression/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/julia-brettschneider/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/neuroimaging/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/brain-age/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/shahin-tavakoli/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/tensor-based-morphometry/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/thomas-e.-nichols/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/bayesian-model/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/gasc/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/gasc/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/lexical-polysemy/</loc>
     <lastmod>2019-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/viivi-lahteenoja/</loc>
     <lastmod>2019-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gasc/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/jim-q.-smith/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/im-age/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/alberto-gori/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/alessio-vasarri/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/boaz-gedaliahu-samolsky-dekel/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/breakthrough-pain/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/maria-cristina-sorella/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/other/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/rita-maria-melotti/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/italian/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/latin/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/vortit-italice/</loc>
     <lastmod>2017-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/courses/</loc>
   </url>
-  
 </urlset>

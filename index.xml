@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Palma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Marco Palma</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Projects</title>
       <link>/project/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/project/</guid>
       <description></description>
     </item>
@@ -23,27 +23,9 @@
     <item>
       <title>Publications</title>
       <link>/publication/</link>
-      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <guid>/publication/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -60,6 +42,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/courses/</guid>
       <description>&lt;h2 id=&#34;ay-20202021&#34;&gt;A.Y. 2020/2021&lt;/h2&gt;
+&lt;h4 id=&#34;tutorials-at-the-university-of-cambridge-postgraduate&#34;&gt;Tutorials at the University of Cambridge (postgraduate)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Principles of Biostatistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ay-20202021-1&#34;&gt;A.Y. 2020/2021&lt;/h2&gt;
 &lt;h4 id=&#34;tutorials-at-the-university-of-warwick-postgraduate&#34;&gt;Tutorials at the University of Warwick (postgraduate)&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Statistics for Data Analysis&lt;/li&gt;

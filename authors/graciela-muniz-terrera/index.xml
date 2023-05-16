@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graciela Muniz-Terrera | Marco Palma</title>
+    <link>/authors/graciela-muniz-terrera/</link>
+      <atom:link href="/authors/graciela-muniz-terrera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graciela Muniz-Terrera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Graciela Muniz-Terrera</title>
+      <link>/authors/graciela-muniz-terrera/</link>
+    </image>
+    
+    <item>
+      <title>Factors associated with within-individual variability of lung function for people with cystic fibrosis: a longitudinal registry study</title>
+      <link>/publication/cf_wiv/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/cf_wiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

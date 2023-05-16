@@ -5,7 +5,7 @@
     <link>/tags/longitudinal-data/</link>
       <atom:link href="/tags/longitudinal-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Longitudinal data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Longitudinal data</title>
@@ -15,9 +15,9 @@
     <item>
       <title>WIVE</title>
       <link>/project/wive/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/project/wive/</guid>
-      <description>&lt;p&gt;Statistical models are only focus at the estimation of the mean of a certain biomedical outcome. However, within-individual variability (WIV) can play a role in quantifying disease risk and progression. In longitudinal studies, WIV is related to the deviation from individual mean. 
+      <description>&lt;p&gt;Statistical models are only focus at the estimation of the mean of a certain biomedical outcome. However, within-individual variability estimation (WIVE) can play a role in quantifying disease risk and progression. In longitudinal studies, WIV is related to the deviation from individual mean.
 Starting from mixed-effects scale-location models (MELSM), we are looking at strategies to dynamically evaluate WIV and include it into the classic statistical modelling for dynamic risk prediction.&lt;/p&gt;
 </description>
     </item>

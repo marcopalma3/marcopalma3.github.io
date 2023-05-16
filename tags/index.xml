@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Tags</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Biostatistics</title>
+      <link>/tags/biostatistics/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/biostatistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cardiovascular diseases</title>
       <link>/tags/cardiovascular-diseases/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/tags/cardiovascular-diseases/</guid>
       <description></description>
     </item>
@@ -23,15 +31,23 @@
     <item>
       <title>Cystic fibrosis</title>
       <link>/tags/cystic-fibrosis/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/tags/cystic-fibrosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling</title>
+      <link>/tags/joint-modelling/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/joint-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal data</title>
       <link>/tags/longitudinal-data/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/tags/longitudinal-data/</guid>
       <description></description>
     </item>
@@ -39,8 +55,16 @@
     <item>
       <title>MELSM</title>
       <link>/tags/melsm/</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/tags/melsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Within-individual variability</title>
+      <link>/tags/within-individual-variability/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/within-individual-variability/</guid>
       <description></description>
     </item>
     
