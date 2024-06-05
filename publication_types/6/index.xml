@@ -5,12 +5,20 @@
     <link>/publication_types/6/</link>
       <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>6</title>
       <link>/publication_types/6/</link>
     </image>
+    
+    <item>
+      <title>A longitudinal study of the gender gap in school grades via flexible Bayesian Beta regression</title>
+      <link>/publication/gender-gap-rir/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gender-gap-rir/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lexical semantic change for Ancient Greek and Latin</title>

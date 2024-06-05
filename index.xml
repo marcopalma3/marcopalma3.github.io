@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Palma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Marco Palma</title>
@@ -13,18 +13,53 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
-      <description></description>
+      <title>Within-individual variability workshop</title>
+      <link>/wiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/wiv/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Date &amp;amp; Time&lt;/strong&gt;: Thursday 26 September 2024, 10:00 – 17:00 (UK time)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: &lt;a href=&#34;https://maps.app.goo.gl/QgggFCzX4mTBtb46A&#34;&gt;Pitt Building, Trumpington Street, Cambridge CB2 1RP&lt;/a&gt; &amp;amp; online&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/within-individual-variability-workshop/within-individual-variability-workshop-26-september-2024&#34;&gt;&lt;strong&gt;Registration link&lt;/strong&gt;&lt;/a&gt; (please select the relevant delegate type)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;The MRC Biostatistics Unit is delighted to be organising a one-day workshop about statistical models for within-individual variability in longitudinal data.&lt;/p&gt;
+&lt;p&gt;The aim of the workshop is to gather statisticians, epidemiologists and data analysts interested in both methods and biomedical applications to discuss recent developments and future directions in modelling variability at the individual level.&lt;/p&gt;
+&lt;p&gt;The workshop will include talks from experts in longitudinal data analysis, flexible regression and joint modelling, working on the quantification of within-individual variability and its application in different biomedical fields.&lt;/p&gt;
+&lt;p&gt;To help make this event inclusive and sustainable, the workshop will be delivered in a hybrid format, with the option to participate in person or virtually, and one of the keynote talks will be delivered virtually.&lt;/p&gt;
+&lt;h3 id=&#34;speakers&#34;&gt;Speakers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Donald Hedeker (University of Chicago)&lt;/li&gt;
+&lt;li&gt;Philippe Rast (University of California)&lt;/li&gt;
+&lt;li&gt;Sonja Greven (Humboldt-Universität zu Berlin)&lt;/li&gt;
+&lt;li&gt;Hélène Jacqmin-Gadda (Université de Bordeaux)&lt;/li&gt;
+&lt;li&gt;Jianxin Pan (BNU-HKBU United International College)&lt;/li&gt;
+&lt;li&gt;David Steinsaltz (University of Oxford)&lt;/li&gt;
+&lt;li&gt;Caterina Gregorio (Karolinska Institutet)&lt;/li&gt;
+&lt;li&gt;Marco Palma (MRC Biostatistics Unit)&lt;/li&gt;
+&lt;li&gt;Richard Parker (University of Bristol)&lt;/li&gt;
+&lt;li&gt;Janne Pott (MRC Biostatistics Unit)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;short-course&#34;&gt;Short Course&lt;/h3&gt;
+&lt;p&gt;We will also be running a half-day short course which will complement the theme of the workshop, taking place on Wednesday 25 September. More information coming soon.&lt;/p&gt;
+&lt;h3 id=&#34;organisers&#34;&gt;Organisers&lt;/h3&gt;
+&lt;p&gt;Jessica Barrett (Programme Leader at MRC Biostatistics Unit) and Marco Palma (Research Associate at MRC Biostatistics Unit)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>/publication/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
