@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wivs | Marco Palma</title>
+    <link>/wiv/</link>
+      <atom:link href="/wiv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wivs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Wivs</title>
+      <link>/wiv/</link>
+    </image>
+    
+    <item>
+      <title>Within-individual variability workshop</title>
+      <link>/wiv/ind/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/wiv/ind/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Date &amp;amp; Time&lt;/strong&gt;: Thursday 26 September 2024, 10:00 – 17:00 (UK time)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: &lt;a href=&#34;https://maps.app.goo.gl/QgggFCzX4mTBtb46A&#34;&gt;Pitt Building, Trumpington Street, Cambridge CB2 1RP&lt;/a&gt; &amp;amp; online&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/within-individual-variability-workshop/within-individual-variability-workshop-26-september-2024&#34;&gt;&lt;strong&gt;Registration link&lt;/strong&gt;&lt;/a&gt; (please select the relevant delegate type)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;The MRC Biostatistics Unit is delighted to be organising a one-day workshop about statistical models for within-individual variability in longitudinal data.&lt;/p&gt;
+&lt;p&gt;The aim of the workshop is to gather statisticians, epidemiologists and data analysts interested in both methods and biomedical applications to discuss recent developments and future directions in modelling variability at the individual level.&lt;/p&gt;
+&lt;p&gt;The workshop will include talks from experts in longitudinal data analysis, flexible regression and joint modelling, working on the quantification of within-individual variability and its application in different biomedical fields.&lt;/p&gt;
+&lt;p&gt;To help make this event inclusive and sustainable, the workshop will be delivered in a hybrid format, with the option to participate in person or virtually, and one of the keynote talks will be delivered virtually.&lt;/p&gt;
+&lt;h3 id=&#34;speakers&#34;&gt;Speakers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Donald Hedeker (University of Chicago)&lt;/li&gt;
+&lt;li&gt;Philippe Rast (University of California)&lt;/li&gt;
+&lt;li&gt;Sonja Greven (Humboldt-Universität zu Berlin)&lt;/li&gt;
+&lt;li&gt;Hélène Jacqmin-Gadda (Université de Bordeaux)&lt;/li&gt;
+&lt;li&gt;Jianxin Pan (BNU-HKBU United International College)&lt;/li&gt;
+&lt;li&gt;David Steinsaltz (University of Oxford)&lt;/li&gt;
+&lt;li&gt;Caterina Gregorio (Karolinska Institutet)&lt;/li&gt;
+&lt;li&gt;Marco Palma (MRC Biostatistics Unit)&lt;/li&gt;
+&lt;li&gt;Richard Parker (University of Bristol)&lt;/li&gt;
+&lt;li&gt;Janne Pott (MRC Biostatistics Unit)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;short-course&#34;&gt;Short Course&lt;/h3&gt;
+&lt;p&gt;We will also be running a half-day short course which will complement the theme of the workshop, taking place on Wednesday 25 September. More information coming soon.&lt;/p&gt;
+&lt;h3 id=&#34;organisers&#34;&gt;Organisers&lt;/h3&gt;
+&lt;p&gt;Jessica Barrett (Programme Leader at MRC Biostatistics Unit) and Marco Palma (Research Associate at MRC Biostatistics Unit)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Short course</title>
+      <link>/wiv/shortcourse/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/wiv/shortcourse/</guid>
+      <description>&lt;p&gt;We will also be running a half-day short course which will complement the theme of the workshop, taking place on Wednesday 25 September. More information coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop programme</title>
+      <link>/wiv/programme/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/wiv/programme/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30 – 10:00&lt;/td&gt;
+&lt;td&gt;Arrival and Refreshments&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 – 10:10&lt;/td&gt;
+&lt;td&gt;Welcome&lt;/td&gt;
+&lt;td&gt;Professor John Whittaker, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 – 10:20&lt;/td&gt;
+&lt;td&gt;Opening Remarks&lt;/td&gt;
+&lt;td&gt;Dr Jessica Barrett, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20 – 11:00&lt;/td&gt;
+&lt;td&gt;Keynote Talk 1&lt;/td&gt;
+&lt;td&gt;Keynote Speaker 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 – 11:20&lt;/td&gt;
+&lt;td&gt;Talk 1&lt;/td&gt;
+&lt;td&gt;Speaker 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:20 – 11:45&lt;/td&gt;
+&lt;td&gt;Refreshments Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:45 – 12:05&lt;/td&gt;
+&lt;td&gt;Talk 2&lt;/td&gt;
+&lt;td&gt;Speaker 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:05 – 12:25&lt;/td&gt;
+&lt;td&gt;Talk 3&lt;/td&gt;
+&lt;td&gt;Speaker 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:25 – 12:45&lt;/td&gt;
+&lt;td&gt;Talk 4&lt;/td&gt;
+&lt;td&gt;Speaker 4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:45 – 13:45&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:45 – 14:05&lt;/td&gt;
+&lt;td&gt;Talk 5&lt;/td&gt;
+&lt;td&gt;Speaker 5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:05 – 14:25&lt;/td&gt;
+&lt;td&gt;Talk 6&lt;/td&gt;
+&lt;td&gt;Speaker 6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:25 – 15:05&lt;/td&gt;
+&lt;td&gt;Keynote Talk 2&lt;/td&gt;
+&lt;td&gt;Keynote Speaker 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:05 – 15:30&lt;/td&gt;
+&lt;td&gt;Refreshments Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30 – 15:50&lt;/td&gt;
+&lt;td&gt;Talk 7&lt;/td&gt;
+&lt;td&gt;Speaker 7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50 – 16:10&lt;/td&gt;
+&lt;td&gt;Talk 8&lt;/td&gt;
+&lt;td&gt;Speaker 8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10 – 16:55&lt;/td&gt;
+&lt;td&gt;Discussion&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:55 – 17:00&lt;/td&gt;
+&lt;td&gt;Closing Remarks&lt;/td&gt;
+&lt;td&gt;Dr Jessica Barrett, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
