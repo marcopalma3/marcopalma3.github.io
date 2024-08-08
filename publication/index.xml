@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Normative brain mapping of 3-dimensional morphometry imaging data using skewed functional data analysis</title>
+      <link>/publication/normmap/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/normmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPS6.09 Association of within-individual variability of FEV1 and BMI with mortality in women with cystic fibrosis: preliminary results from the UK Registry</title>
+      <link>/publication/cf_jmabstract/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/cf_jmabstract/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A longitudinal study of the gender gap in school grades via flexible Bayesian Beta regression</title>
@@ -21,9 +37,9 @@
     </item>
     
     <item>
-      <title>Factors associated with within-individual variability of lung function for people with cystic fibrosis: a longitudinal registry study</title>
+      <title>Demographic factors associated with within-individual variability of lung function for adults with cystic fibrosis: A UK registry study</title>
       <link>/publication/cf_wiv/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/publication/cf_wiv/</guid>
       <description></description>
     </item>

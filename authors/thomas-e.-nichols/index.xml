@@ -5,12 +5,20 @@
     <link>/authors/thomas-e.-nichols/</link>
       <atom:link href="/authors/thomas-e.-nichols/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas E. Nichols</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Thomas E. Nichols</title>
       <link>/authors/thomas-e.-nichols/</link>
     </image>
+    
+    <item>
+      <title>Normative brain mapping of 3-dimensional morphometry imaging data using skewed functional data analysis</title>
+      <link>/publication/normmap/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/normmap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantifying uncertainty in brain-predicted age using scalar-on-image quantile regression</title>

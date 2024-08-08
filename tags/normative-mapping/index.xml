@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Normative mapping | Marco Palma</title>
+    <link>/tags/normative-mapping/</link>
+      <atom:link href="/tags/normative-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Normative mapping</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Normative mapping</title>
+      <link>/tags/normative-mapping/</link>
+    </image>
+    
+    <item>
+      <title>Normative brain mapping of 3-dimensional morphometry imaging data using skewed functional data analysis</title>
+      <link>/publication/normmap/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/normmap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/authors/david-taylor-robinson/</link>
       <atom:link href="/authors/david-taylor-robinson/index.xml" rel="self" type="application/rss+xml" />
     <description>David Taylor-Robinson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>David Taylor-Robinson</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Factors associated with within-individual variability of lung function for people with cystic fibrosis: a longitudinal registry study</title>
+      <title>EPS6.09 Association of within-individual variability of FEV1 and BMI with mortality in women with cystic fibrosis: preliminary results from the UK Registry</title>
+      <link>/publication/cf_jmabstract/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/cf_jmabstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographic factors associated with within-individual variability of lung function for adults with cystic fibrosis: A UK registry study</title>
       <link>/publication/cf_wiv/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <guid>/publication/cf_wiv/</guid>
       <description></description>
     </item>

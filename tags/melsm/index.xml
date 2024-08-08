@@ -5,12 +5,20 @@
     <link>/tags/melsm/</link>
       <atom:link href="/tags/melsm/index.xml" rel="self" type="application/rss+xml" />
     <description>MELSM</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>MELSM</title>
       <link>/tags/melsm/</link>
     </image>
+    
+    <item>
+      <title>Demographic factors associated with within-individual variability of lung function for adults with cystic fibrosis: A UK registry study</title>
+      <link>/publication/cf_wiv/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/cf_wiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WIVE</title>
@@ -20,14 +28,6 @@
       <description>&lt;p&gt;Statistical models are only focus at the estimation of the mean of a certain biomedical outcome. However, &lt;strong&gt;within-individual variability estimation&lt;/strong&gt; (WIVE) can play a role in quantifying disease risk and progression. In longitudinal studies, WIV is related to the deviation from individual mean.
 Starting from mixed-effects scale-location models (MELSM), we are looking at strategies to dynamically evaluate WIV and include it into the classic statistical modelling for dynamic risk prediction.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Factors associated with within-individual variability of lung function for people with cystic fibrosis: a longitudinal registry study</title>
-      <link>/publication/cf_wiv/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/cf_wiv/</guid>
-      <description></description>
     </item>
     
   </channel>

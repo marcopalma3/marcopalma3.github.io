@@ -5,12 +5,76 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Distributional regression</title>
+      <link>/tags/distributional-regression/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/distributional-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional data analysis</title>
+      <link>/tags/functional-data-analysis/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/functional-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging</title>
+      <link>/tags/neuroimaging/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normative mapping</title>
+      <link>/tags/normative-mapping/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/normative-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor-based morphometry</title>
+      <link>/tags/tensor-based-morphometry/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/tensor-based-morphometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cystic fibrosis</title>
+      <link>/tags/cystic-fibrosis/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/cystic-fibrosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling</title>
+      <link>/tags/joint-modelling/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/joint-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Within-individual variability</title>
+      <link>/tags/within-individual-variability/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/within-individual-variability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Educational studies</title>
@@ -29,6 +93,14 @@
     </item>
     
     <item>
+      <title>MELSM</title>
+      <link>/tags/melsm/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/melsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biostatistics</title>
       <link>/tags/biostatistics/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
@@ -41,38 +113,6 @@
       <link>/tags/cardiovascular-diseases/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>/tags/cardiovascular-diseases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cystic fibrosis</title>
-      <link>/tags/cystic-fibrosis/</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/cystic-fibrosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint modelling</title>
-      <link>/tags/joint-modelling/</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/joint-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MELSM</title>
-      <link>/tags/melsm/</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/melsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Within-individual variability</title>
-      <link>/tags/within-individual-variability/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/within-individual-variability/</guid>
       <description></description>
     </item>
     
@@ -109,34 +149,10 @@
     </item>
     
     <item>
-      <title>Functional data analysis</title>
-      <link>/tags/functional-data-analysis/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/functional-data-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Functional quantile regression</title>
       <link>/tags/functional-quantile-regression/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       <guid>/tags/functional-quantile-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroimaging</title>
-      <link>/tags/neuroimaging/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/neuroimaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensor-based morphometry</title>
-      <link>/tags/tensor-based-morphometry/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/tensor-based-morphometry/</guid>
       <description></description>
     </item>
     
