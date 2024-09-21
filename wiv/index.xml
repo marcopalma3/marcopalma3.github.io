@@ -15,33 +15,34 @@
     <item>
       <title>Short course</title>
       <link>/wiv/shortcourse/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/wiv/shortcourse/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Date &amp;amp; Time&lt;/strong&gt;: Wednesday 25 September 2024, 14:00 – 17:00 (UK time)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: &lt;a href=&#34;https://maps.app.goo.gl/wsVJsajCk9m7VoBT9&#34;&gt;MRC Biostatistics Unit,  East Forvie Building, Cambridge, CB2 0SR&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/mrc-biostatistics-unit-short-courses/modelling-within-individual-variability-for-longitudinal-data-25-september-2024&#34;&gt;&lt;strong&gt;Registration link&lt;/strong&gt;&lt;/a&gt; (please select the relevant attendee type)&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We are running a half-day short course which will complement the theme of the Within-individual variability workshop, taking place on Thursday 26 September (see Workshop info submenu).&lt;/p&gt;
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;In many biomedical applications, there is increasing interest in modelling within-individual variability of health measures recorded over time to characterise fluctuations around the mean trajectory. Simple summary statistics (like the standard deviation of the observation for each individual) do not account for the imbalance in the longitudinal observations across individuals and their time dependency, therefore statistical models for the within-individual variability are needed.&lt;/p&gt;
 &lt;p&gt;In this course, we are going to introduce some statistical models that can be used for the quantification of within-individual variability. The first session will be devoted to models for longitudinal data only, while the second will cover a basic introduction of joint modelling for longitudinal and time-to-event data, with an extension to within-individual variability.&lt;/p&gt;
-&lt;h3 id=&#34;programme-tbc&#34;&gt;Programme (TBC):&lt;/h3&gt;
+&lt;h3 id=&#34;programme&#34;&gt;Programme:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;14:00 – 15:20: Longitudinal data analysis&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;What is within-individual variability (WIV)? Why should we model WIV?&lt;/li&gt;
 &lt;li&gt;Introduction and recap on linear mixed models&lt;/li&gt;
-&lt;li&gt;Mixed-effect location-scale models&lt;/li&gt;
+&lt;li&gt;Mixed-effect location-scale models: method and application&lt;/li&gt;
 &lt;li&gt;Distributional regression for longitudinal data&lt;/li&gt;
-&lt;li&gt;R packages for within-individual variability modelling in longitudinal data (gamlss, bamlss, brms)&lt;/li&gt;
+&lt;li&gt;R packages for within-individual variability modelling in longitudinal data (gamlss, bamlss, brms)*&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;15:20 – 15:40: Coffee break&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;15:40 – 17:00: Joint models for longitudinal and time-to-event data&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Introduction to joint modelling (JM)&lt;/li&gt;
-&lt;li&gt;Frequentist approaches to JM&lt;/li&gt;
-&lt;li&gt;Bayesian approaches to JM and R packages&lt;/li&gt;
-&lt;li&gt;Including WIV in joint models&lt;/li&gt;
+&lt;li&gt;Introduction to joint modelling (JM): methods and computation&lt;/li&gt;
+&lt;li&gt;Including WIV in joint models (JM-WIV)&lt;/li&gt;
+&lt;li&gt;Simulations and application to blood pressure data&lt;/li&gt;
+&lt;li&gt;Results about JM-WIV using R and Stan*&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;*Examples showing how to use the packages will be discussed. Participants will not be required to run code on their laptop.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Knowledge of R and Bayesian Statistics, basic knowledge of linear mixed models and time-to-event data analysis.&lt;/p&gt;
 &lt;h3 id=&#34;course-tutors&#34;&gt;Course Tutors&lt;/h3&gt;
 &lt;p&gt;Jessica Barrett (Programme Leader at MRC Biostatistics Unit) and Marco Palma (Research Associate at MRC Biostatistics Unit)&lt;/p&gt;
@@ -51,12 +52,11 @@
     <item>
       <title>Short course</title>
       <link>/wiv/shortcourse/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/wiv/shortcourse/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Date &amp;amp; Time&lt;/strong&gt;: Wednesday 25 September 2024, 14:00 – 17:00 (UK time)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: &lt;a href=&#34;https://maps.app.goo.gl/wsVJsajCk9m7VoBT9&#34;&gt;MRC Biostatistics Unit,  East Forvie Building, Cambridge, CB2 0SR&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/mrc-biostatistics-unit-short-courses/modelling-within-individual-variability-for-longitudinal-data-25-september-2024&#34;&gt;&lt;strong&gt;Registration link&lt;/strong&gt;&lt;/a&gt; (please select the relevant attendee type)&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;We are running a half-day short course which will complement the theme of the Within-individual variability workshop, taking place on Thursday 26 September (see Workshop info submenu).&lt;/p&gt;
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
@@ -65,19 +65,21 @@
 &lt;h3 id=&#34;programme-tbc&#34;&gt;Programme (TBC):&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;14:00 – 15:20: Longitudinal data analysis&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;What is within-individual variability (WIV)? Why should we model WIV?&lt;/li&gt;
 &lt;li&gt;Introduction and recap on linear mixed models&lt;/li&gt;
-&lt;li&gt;Mixed-effect location-scale models&lt;/li&gt;
+&lt;li&gt;Mixed-effect location-scale models: method and application&lt;/li&gt;
 &lt;li&gt;Distributional regression for longitudinal data&lt;/li&gt;
-&lt;li&gt;R packages for within-individual variability modelling in longitudinal data (gamlss, bamlss, brms)&lt;/li&gt;
+&lt;li&gt;R packages for within-individual variability modelling in longitudinal data (gamlss, bamlss, brms)*&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;15:20 – 15:40: Coffee break&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;15:40 – 17:00: Joint models for longitudinal and time-to-event data&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Introduction to joint modelling (JM)&lt;/li&gt;
-&lt;li&gt;Frequentist approaches to JM&lt;/li&gt;
-&lt;li&gt;Bayesian approaches to JM and R packages&lt;/li&gt;
-&lt;li&gt;Including WIV in joint models&lt;/li&gt;
+&lt;li&gt;Introduction to joint modelling (JM): methods and computation&lt;/li&gt;
+&lt;li&gt;Including WIV in joint models (JM-WIV)&lt;/li&gt;
+&lt;li&gt;Simulations and application to blood pressure data&lt;/li&gt;
+&lt;li&gt;Results about JM-WIV using R and Stan*&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;*Examples showing how to use the packages will be discussed. Participants will not be required to run code on their laptop.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Knowledge of R and Bayesian Statistics, basic knowledge of linear mixed models and time-to-event data analysis.&lt;/p&gt;
 &lt;h3 id=&#34;course-tutors&#34;&gt;Course Tutors&lt;/h3&gt;
 &lt;p&gt;Jessica Barrett (Programme Leader at MRC Biostatistics Unit) and Marco Palma (Research Associate at MRC Biostatistics Unit)&lt;/p&gt;
@@ -87,7 +89,7 @@
     <item>
       <title>Workshop programme</title>
       <link>/wiv/programme/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/wiv/programme/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
@@ -155,7 +157,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:05 – 14:25&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Using latent processes to predict individual health outcomes&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Variability of ageing and the definition of ‘biological age’&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;David Steinsaltz, University of Oxford&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -264,7 +266,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:05 – 14:25&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Using latent processes to predict individual health outcomes&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Variability of ageing and the definition of ‘biological age’&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;David Steinsaltz, University of Oxford&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
