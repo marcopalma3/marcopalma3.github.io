@@ -25,7 +25,7 @@
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;In many biomedical applications, there is increasing interest in modelling within-individual variability of health measures recorded over time to characterise fluctuations around the mean trajectory. Simple summary statistics (like the standard deviation of the observation for each individual) do not account for the imbalance in the longitudinal observations across individuals and their time dependency, therefore statistical models for the within-individual variability are needed.&lt;/p&gt;
 &lt;p&gt;In this course, we are going to introduce some statistical models that can be used for the quantification of within-individual variability. The first session will be devoted to models for longitudinal data only, while the second will cover a basic introduction of joint modelling for longitudinal and time-to-event data, with an extension to within-individual variability.&lt;/p&gt;
-&lt;h3 id=&#34;programme&#34;&gt;Programme:&lt;/h3&gt;
+&lt;h3 id=&#34;programme&#34;&gt;Programme&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;14:00 – 15:20: Longitudinal data analysis&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What is within-individual variability (WIV)? Why should we model WIV?&lt;/li&gt;
@@ -62,7 +62,7 @@
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
 &lt;p&gt;In many biomedical applications, there is increasing interest in modelling within-individual variability of health measures recorded over time to characterise fluctuations around the mean trajectory. Simple summary statistics (like the standard deviation of the observation for each individual) do not account for the imbalance in the longitudinal observations across individuals and their time dependency, therefore statistical models for the within-individual variability are needed.&lt;/p&gt;
 &lt;p&gt;In this course, we are going to introduce some statistical models that can be used for the quantification of within-individual variability. The first session will be devoted to models for longitudinal data only, while the second will cover a basic introduction of joint modelling for longitudinal and time-to-event data, with an extension to within-individual variability.&lt;/p&gt;
-&lt;h3 id=&#34;programme-tbc&#34;&gt;Programme (TBC):&lt;/h3&gt;
+&lt;h3 id=&#34;programme&#34;&gt;Programme&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;14:00 – 15:20: Longitudinal data analysis&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What is within-individual variability (WIV)? Why should we model WIV?&lt;/li&gt;
