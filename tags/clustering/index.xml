@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering | Marco Palma</title>
+    <link>/tags/clustering/</link>
+      <atom:link href="/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
+      <link>/publication/shared-parameters-jm/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/shared-parameters-jm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

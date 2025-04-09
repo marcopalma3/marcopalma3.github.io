@@ -5,12 +5,28 @@
     <link>/authors/jessica-k-barrett/</link>
       <atom:link href="/authors/jessica-k-barrett/index.xml" rel="self" type="application/rss+xml" />
     <description>Jessica K Barrett</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Jessica K Barrett</title>
       <link>/authors/jessica-k-barrett/</link>
     </image>
+    
+    <item>
+      <title>A Bayesian location-scale joint model for time-to-event and multivariate longitudinal data with association based on within-individual variability</title>
+      <link>/publication/jm-wiv/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/jm-wiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
+      <link>/publication/shared-parameters-jm/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/shared-parameters-jm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EPS6.09 Association of within-individual variability of FEV1 and BMI with mortality in women with cystic fibrosis: preliminary results from the UK Registry</title>

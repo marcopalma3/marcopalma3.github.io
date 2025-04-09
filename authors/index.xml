@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Authors</title>
@@ -15,106 +15,18 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a postdoctoral research associate working with &lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/staff/jessica-barrett&#34;&gt;Dr Jessica Barrett&lt;/a&gt; on building statistical models for within-individual variability with applications in cystic fibrosis and other biomedical fields. I joined the MRC Biostatistics Unit in January 2022.&lt;/p&gt;
-&lt;p&gt;I was previously a PhD student in Statistics under the supervision of &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/brettschneider&#34;&gt;Dr Julia Brettschneider&lt;/a&gt; (Warwick), &lt;a href=&#34;https://www.bdi.ox.ac.uk/Team/t-e-nichols&#34;&gt;Prof Thomas Nichols&lt;/a&gt; (Oxford Big Data Institute) and &lt;a href=&#34;https://stavakoli.com/&#34;&gt;Dr Shahin Tavakoli&lt;/a&gt; (University of Geneva). I was part of a joint CDT program between the University of Oxford and the University of Warwick called OxWaSP.&lt;/p&gt;
+      <description>&lt;p&gt;I am the Ulverscroft Senior Research Fellow in Ophthalmic Biostatistics in the &lt;a href=&#34;https://www.ucl.ac.uk/child-health/research/population-policy-and-practice-research-and-teaching-department/lceb-life-course-0&#34;&gt;Vision and Eyes Group&lt;/a&gt; of the Population, Policy and Practice Research and Teaching Department, UCL Great Ormond Street Institute of Child Health. My research focuses on the statistical analysis of health and educational data of children and young people with visual impairment and blindness. I have joined UCL in March 2025.&lt;/p&gt;
+&lt;p&gt;Previously, I was a research associate working with &lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/staff/jessica-barrett&#34;&gt;Dr Jessica Barrett&lt;/a&gt; on building statistical models for within-individual variability with applications in cystic fibrosis. In 2022, I earned a PhD in Statistics under the supervision of &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/brettschneider&#34;&gt;Dr Julia Brettschneider&lt;/a&gt; (Warwick), &lt;a href=&#34;https://www.bdi.ox.ac.uk/Team/t-e-nichols&#34;&gt;Prof Thomas Nichols&lt;/a&gt; (Oxford Big Data Institute) and &lt;a href=&#34;https://stavakoli.com/&#34;&gt;Dr Shahin Tavakoli&lt;/a&gt; (University of Geneva). I was part of a joint CDT program between the University of Oxford and the University of Warwick called OxWaSP.&lt;/p&gt;
 &lt;p&gt;I am interested in the development of statistical methods for the analysis of complex data. In medicine, longitudinal and time-to-event data can help to evaluate disease risk and progression over time. In neuroimaging, I have used approaches from functional data analysis to derive indicators of brain health. In linguistics, statistical models for textual data can inform about semantic changes over time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Alzheimer&#39;s Disease Neuroimaging Initiative</title>
-      <link>/authors/alzheimers-disease-neuroimaging-initiative/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/alzheimers-disease-neuroimaging-initiative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ana-Maria Staicu</title>
-      <link>/authors/ana-maria-staicu/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/ana-maria-staicu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julia Brettschneider</title>
-      <link>/authors/julia-brettschneider/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/julia-brettschneider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shahin Tavakoli</title>
-      <link>/authors/shahin-tavakoli/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/shahin-tavakoli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas E. Nichols</title>
-      <link>/authors/thomas-e.-nichols/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-e.-nichols/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Angela M Wood</title>
-      <link>/authors/angela-m-wood/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/angela-m-wood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Taylor-Robinson</title>
-      <link>/authors/david-taylor-robinson/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/david-taylor-robinson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graciela Muniz-Terrera</title>
-      <link>/authors/graciela-muniz-terrera/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/graciela-muniz-terrera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jessica K Barrett</title>
-      <link>/authors/jessica-k-barrett/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/jessica-k-barrett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rhonda Szczesniak</title>
-      <link>/authors/rhonda-szczesniak/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/rhonda-szczesniak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siobhán B Carr</title>
-      <link>/authors/siobhan-b-carr/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/siobhan-b-carr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Beatrice Franzolini</title>
       <link>/authors/beatrice-franzolini/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/authors/beatrice-franzolini/</guid>
       <description></description>
     </item>
@@ -122,16 +34,120 @@
     <item>
       <title>Laura Bondi</title>
       <link>/authors/laura-bondi/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/authors/laura-bondi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angela M Wood</title>
+      <link>/authors/angela-m-wood/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/angela-m-wood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Taylor-Robinson</title>
+      <link>/authors/david-taylor-robinson/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/david-taylor-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graciela Muniz-Terrera</title>
+      <link>/authors/graciela-muniz-terrera/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/graciela-muniz-terrera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica K Barrett</title>
+      <link>/authors/jessica-k-barrett/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/jessica-k-barrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhonda Szczesniak</title>
+      <link>/authors/rhonda-szczesniak/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/rhonda-szczesniak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruth H Keogh</title>
       <link>/authors/ruth-h-keogh/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/authors/ruth-h-keogh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siobhán B Carr</title>
+      <link>/authors/siobhan-b-carr/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/siobhan-b-carr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alzheimer&#39;s Disease Neuroimaging Initiative</title>
+      <link>/authors/alzheimers-disease-neuroimaging-initiative/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/alzheimers-disease-neuroimaging-initiative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana-Maria Staicu</title>
+      <link>/authors/ana-maria-staicu/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/ana-maria-staicu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Brettschneider</title>
+      <link>/authors/julia-brettschneider/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/julia-brettschneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shahin Tavakoli</title>
+      <link>/authors/shahin-tavakoli/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/shahin-tavakoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas E. Nichols</title>
+      <link>/authors/thomas-e.-nichols/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-e.-nichols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danilo Alvares</title>
+      <link>/authors/danilo-alvares/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/danilo-alvares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sida Chen</title>
+      <link>/authors/sida-chen/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/sida-chen/</guid>
       <description></description>
     </item>
     

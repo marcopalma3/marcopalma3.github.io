@@ -3,136 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/wiv/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/alzheimers-disease-neuroimaging-initiative/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ana-maria-staicu/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <loc>/publication/gender-gap-rir/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/distributional-regression/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
+    <loc>/authors/beatrice-franzolini/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/functional-data-analysis/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/julia-brettschneider/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/neuroimaging/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/normmap/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/normative-mapping/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/shahin-tavakoli/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tensor-based-morphometry/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/thomas-e.-nichols/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/angela-m-wood/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <loc>/tags/biostatistics/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cystic-fibrosis/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/educational-studies/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/joint-modelling/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/laura-bondi/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/longitudinal-data/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/melsm/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/wive/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/jm-wiv/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/angela-m-wood/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/david-taylor-robinson/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/graciela-muniz-terrera/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jessica-k-barrett/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rhonda-szczesniak/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ruth-h-keogh/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/siobhan-b-carr/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/within-individual-variability/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/alzheimers-disease-neuroimaging-initiative/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ana-maria-staicu/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/distributional-regression/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/functional-data-analysis/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/julia-brettschneider/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/neuroimaging/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/normative-mapping/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shahin-tavakoli/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/normmap/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tensor-based-morphometry/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/thomas-e.-nichols/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/shared-parameters-jm/</loc>
+    <lastmod>2024-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/clustering/</loc>
+    <lastmod>2024-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/danilo-alvares/</loc>
+    <lastmod>2024-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sida-chen/</loc>
+    <lastmod>2024-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/cf_jmabstract/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/graciela-muniz-terrera/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/jessica-k-barrett/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/joint-modelling/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/rhonda-szczesniak/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/siobhan-b-carr/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/within-individual-variability/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/6/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/gender-gap-rir/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/beatrice-franzolini/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/educational-studies/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/laura-bondi/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/longitudinal-data/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/cf_wiv/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/melsm/</loc>
-    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ruth-h-keogh/</loc>
-    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/biostatistics/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cardiovascular-diseases/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/wive/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/alessandro-vatri/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>

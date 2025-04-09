@@ -5,12 +5,20 @@
     <link>/authors/ruth-h-keogh/</link>
       <atom:link href="/authors/ruth-h-keogh/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruth H Keogh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Ruth H Keogh</title>
       <link>/authors/ruth-h-keogh/</link>
     </image>
+    
+    <item>
+      <title>A Bayesian location-scale joint model for time-to-event and multivariate longitudinal data with association based on within-individual variability</title>
+      <link>/publication/jm-wiv/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/jm-wiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demographic factors associated with within-individual variability of lung function for adults with cystic fibrosis: A UK registry study</title>

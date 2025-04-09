@@ -5,7 +5,7 @@
     <link>/authors/thomas-e.-nichols/</link>
       <atom:link href="/authors/thomas-e.-nichols/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas E. Nichols</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Thomas E. Nichols</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Normative brain mapping of 3-dimensional morphometry imaging data using skewed functional data analysis</title>
+      <title>Smooth normative brain mapping of 3-dimensional morphometry imaging data using skew-normal regression</title>
       <link>/publication/normmap/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/publication/normmap/</guid>
       <description></description>
     </item>

@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Palma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Marco Palma</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Normative brain mapping of 3-dimensional morphometry imaging data using skewed functional data analysis</title>
+      <title>A longitudinal study of the gender gap in school grades via flexible Bayesian Beta regression</title>
+      <link>/publication/gender-gap-rir/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/gender-gap-rir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian location-scale joint model for time-to-event and multivariate longitudinal data with association based on within-individual variability</title>
+      <link>/publication/jm-wiv/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/jm-wiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth normative brain mapping of 3-dimensional morphometry imaging data using skew-normal regression</title>
       <link>/publication/normmap/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/publication/normmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
+      <link>/publication/shared-parameters-jm/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/shared-parameters-jm/</guid>
       <description></description>
     </item>
     
@@ -25,14 +49,6 @@
       <link>/publication/cf_jmabstract/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/publication/cf_jmabstract/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A longitudinal study of the gender gap in school grades via flexible Bayesian Beta regression</title>
-      <link>/publication/gender-gap-rir/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/gender-gap-rir/</guid>
       <description></description>
     </item>
     

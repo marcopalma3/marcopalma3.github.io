@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Palma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Marco Palma</title>
@@ -15,50 +15,158 @@
     <item>
       <title>Within-individual variability workshop</title>
       <link>/wiv/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/wiv/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Date &amp;amp; Time&lt;/strong&gt;: Thursday 26 September 2024, 10:00 – 17:00 (UK time)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;: &lt;a href=&#34;https://maps.app.goo.gl/QgggFCzX4mTBtb46A&#34;&gt;Pitt Building, Trumpington Street, Cambridge CB2 1RP&lt;/a&gt; &amp;amp; online&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Videos&lt;/strong&gt;: &lt;a href=&#34;https://www.youtube.com/watch?v=QN92vkK2ehg&amp;amp;list=PLbvdNT0i2SCzS30CIQIz7XqQ92eyS-ekA&#34;&gt;Youtube playlist&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;The MRC Biostatistics Unit is delighted to be organising a one-day workshop about statistical models for within-individual variability in longitudinal data.&lt;/p&gt;
 &lt;p&gt;The aim of the workshop is to gather statisticians, epidemiologists and data analysts interested in both methods and biomedical applications to discuss recent developments and future directions in modelling variability at the individual level.&lt;/p&gt;
 &lt;p&gt;The workshop will include talks from experts in longitudinal data analysis, flexible regression and joint modelling, working on the quantification of within-individual variability and its application in different biomedical fields.&lt;/p&gt;
 &lt;p&gt;To help make this event inclusive and sustainable, the workshop will be delivered in a hybrid format, with the option to participate in person or virtually, and one of the keynote talks will be delivered virtually.&lt;/p&gt;
-&lt;h3 id=&#34;speakers&#34;&gt;Speakers&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Donald Hedeker (University of Chicago)&lt;/li&gt;
-&lt;li&gt;Philippe Rast (University of California)&lt;/li&gt;
-&lt;li&gt;Sonja Greven (Humboldt-Universität zu Berlin)&lt;/li&gt;
-&lt;li&gt;Hélène Jacqmin-Gadda (Université de Bordeaux)&lt;/li&gt;
-&lt;li&gt;Jianxin Pan (BNU-HKBU United International College)&lt;/li&gt;
-&lt;li&gt;David Steinsaltz (University of Oxford)&lt;/li&gt;
-&lt;li&gt;Caterina Gregorio (Karolinska Institutet)&lt;/li&gt;
-&lt;li&gt;Marco Palma (MRC Biostatistics Unit)&lt;/li&gt;
-&lt;li&gt;Richard Parker (University of Bristol)&lt;/li&gt;
-&lt;li&gt;Janne Pott (MRC Biostatistics Unit)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;programme&#34;&gt;Programme&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;09:30 – 10:00&lt;/td&gt;
+&lt;td&gt;Arrival and Refreshments&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00 – 10:10&lt;/td&gt;
+&lt;td&gt;Welcome&lt;/td&gt;
+&lt;td&gt;John Whittaker, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:10 – 10:20&lt;/td&gt;
+&lt;td&gt;Opening Remarks&lt;/td&gt;
+&lt;td&gt;Jessica Barrett, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20 – 11:00&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;From Noise to Nuance: Modeling Residual Variance with Dynamic and Mixed Effects Location Scale Models&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Philippe Rast, University of California, Davis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00 – 11:20&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Modelling biomarker variability in joint analysis of longitudinal and time-to-event data&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Jianxin Pan, BNU-HKBU United International College, China&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:20 – 11:45&lt;/td&gt;
+&lt;td&gt;Refreshments Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:45 – 12:05&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;A flexible location-scale joint model for a longitudinal marker and competing events&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Hélène Jacqmin-Gadda, Inserm Centre Bordeaux Population Health&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:05 – 12:25&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Flexible joint models for multivariate longitudinal and time-to-event data using multivariate functional principal components&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Sonja Greven, Humboldt-Universität zu Berlin&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:25 – 12:45&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;A Bayesian joint location-scale model for time-to-event and multivariate longitudinal data with association based on within-individual variability&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Marco Palma, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:45 – 13:45&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:45 – 14:05&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Wavelet-mixed landmark survival models for the effect of short-term changes of potassium in heart failure patients&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Caterina Gregorio, Aging Research Center, Karolinska Institutet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:05 – 14:25&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Variability of ageing and the definition of ‘biological age’&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;David Steinsaltz, University of Oxford&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:25 – 15:05&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Pleasure and Satisfaction as Predictors of Future Cigarette and E-Cigarette Use: A Novel Two-Stage Modeling Approach&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Donald Hedeker, The University of Chicago Biological Sciences&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:05 – 15:30&lt;/td&gt;
+&lt;td&gt;Refreshments Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30 – 15:50&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Modelling risk factors for within-individual variability: a mixed-effects beta-binomial model applied to cognitive function in older people in the English Longitudinal Study of Ageing&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Richard Parker, MRC Integrative Epidemiology Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50 – 16:10&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Using within-individual variability in Mendelian Randomization&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Janne Pott, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10 – 16:55&lt;/td&gt;
+&lt;td&gt;Discussion&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:55 – 17:00&lt;/td&gt;
+&lt;td&gt;Closing Remarks&lt;/td&gt;
+&lt;td&gt;Jessica Barrett, MRC Biostatistics Unit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h3 id=&#34;short-course&#34;&gt;Short Course&lt;/h3&gt;
-&lt;p&gt;We will also be running a half-day short course which will complement the theme of the workshop, taking place on Wednesday 25 September (see Short course submenu).&lt;/p&gt;
+&lt;p&gt;We will also be running a half-day short course which will complement the theme of the workshop, taking place on Wednesday 25 September.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;14:00 – 15:20: Longitudinal data analysis&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is within-individual variability (WIV)? Why should we model WIV?&lt;/li&gt;
+&lt;li&gt;Introduction and recap on linear mixed models&lt;/li&gt;
+&lt;li&gt;Mixed-effect location-scale models: method and application&lt;/li&gt;
+&lt;li&gt;Distributional regression for longitudinal data&lt;/li&gt;
+&lt;li&gt;R packages for within-individual variability modelling in longitudinal data (gamlss, bamlss, brms)*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;15:20 – 15:40: Coffee break&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;15:40 – 17:00: Joint models for longitudinal and time-to-event data&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to joint modelling (JM): methods and computation&lt;/li&gt;
+&lt;li&gt;Including WIV in joint models (JM-WIV)&lt;/li&gt;
+&lt;li&gt;Simulations and application to blood pressure data&lt;/li&gt;
+&lt;li&gt;Results about JM-WIV using R and Stan*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*Examples showing how to use the packages will be discussed. Participants will not be required to run code on their laptop.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Knowledge of R and Bayesian Statistics, basic knowledge of linear mixed models and time-to-event data analysis.&lt;/p&gt;
 &lt;h3 id=&#34;organisers&#34;&gt;Organisers&lt;/h3&gt;
 &lt;p&gt;Jessica Barrett (Programme Leader at MRC Biostatistics Unit) and Marco Palma (Research Associate at MRC Biostatistics Unit)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
@@ -75,7 +183,12 @@
       <link>/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/courses/</guid>
-      <description>&lt;h3 id=&#34;ay-20232024&#34;&gt;A.Y. 2023/2024&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;ay-20242025&#34;&gt;A.Y. 2024/2025&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Tutorials at the University of Cambridge (postgraduate)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Statistics for Health Data Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ay-20232024&#34;&gt;A.Y. 2023/2024&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Workshop at the University of Cambridge&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Modelling within-individual variability for longitudinal data (see WIV modelling menu)&lt;/li&gt;
