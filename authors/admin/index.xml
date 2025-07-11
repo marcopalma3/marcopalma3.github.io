@@ -5,12 +5,36 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Palma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Marco Palma</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Assessing the impact of variance heterogeneity and misspecification in mixed-effects location-scale models</title>
+      <link>/publication/wiv_simulation/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/wiv_simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
+      <link>/publication/shared-parameters-jm/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/shared-parameters-jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mendelian Randomization with longitudinal exposure data: simulation study and real data application</title>
+      <link>/publication/mendelianrandomization_long/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/mendelianrandomization_long/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A longitudinal study of the gender gap in school grades via flexible Bayesian Beta regression</title>
@@ -33,14 +57,6 @@
       <link>/publication/normmap/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/publication/normmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
-      <link>/publication/shared-parameters-jm/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/shared-parameters-jm/</guid>
       <description></description>
     </item>
     

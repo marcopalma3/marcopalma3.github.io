@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Jeanselme | Marco Palma</title>
+    <link>/authors/vincent-jeanselme/</link>
+      <atom:link href="/authors/vincent-jeanselme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Jeanselme</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/boards.jpg</url>
+      <title>Vincent Jeanselme</title>
+      <link>/authors/vincent-jeanselme/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the impact of variance heterogeneity and misspecification in mixed-effects location-scale models</title>
+      <link>/publication/wiv_simulation/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/wiv_simulation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

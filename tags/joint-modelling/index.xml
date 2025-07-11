@@ -5,12 +5,20 @@
     <link>/tags/joint-modelling/</link>
       <atom:link href="/tags/joint-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Joint modelling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-GB</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/boards.jpg</url>
       <title>Joint modelling</title>
       <link>/tags/joint-modelling/</link>
     </image>
+    
+    <item>
+      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
+      <link>/publication/shared-parameters-jm/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/shared-parameters-jm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WIVE</title>
@@ -27,14 +35,6 @@ Starting from mixed-effects scale-location models (MELSM), we have looked at str
       <link>/publication/jm-wiv/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <guid>/publication/jm-wiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian shared parameter joint models for heterogeneous populations</title>
-      <link>/publication/shared-parameters-jm/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/shared-parameters-jm/</guid>
       <description></description>
     </item>
     
